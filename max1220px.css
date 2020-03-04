@@ -1,0 +1,101 @@
+@media screen and (max-width: 1220px) {
+  .topbar {
+    min-width: 960px;
+  }
+  .topbar .topbar-container {
+    width: 960px;
+  }
+
+  .topbar .topbar-logo .max {
+    display: none;
+  }
+  .topbar .topbar-logo .min {
+    display: block;
+  }
+  .topbar .topbar-search {
+    width: 592px;
+    margin-left: 32px;
+  }
+  .topbar .topbar-info .info-item .text {
+    display: none;
+  }
+  .topbar .topbar-info .info-item .icon {
+    margin-top: 10px;
+  }
+  .topbar .topbar-nav .nav-item a {
+    font-size: 12px;
+  }
+
+  .banner-box {
+    min-width: 960px;
+    height: 260px;
+  }
+  .banner-box .banner-point a {
+    width: 120px;
+  }
+  .content-floor {
+    min-width: 960px;
+  }
+  .content-floor .floor-container {
+    width: 960px;
+  }
+  .content-floor .content-item {
+    width: 216px;
+    height: 150px;
+  }
+  .content-floor .content-item .img-box {
+    width: 112px;
+    height: 138px;
+  }
+  .content-floor .content-item .text-box {
+    width: 80px;
+    height: 138px;
+  }
+  .content-floor .content-item .text-box .month {
+    display: none;
+  }
+  .content-floor .content-item .text-box .logo {
+    width: 50px;
+    height: 50px;
+    margin-top: 22px;
+  }
+  .content-floor .floor-header .desc {
+    display: none;
+  }
+
+  .pic-floor .pic-item {
+    width: 232px;
+    height: 328px;
+  }
+  .pic-floor .img-box {
+    width: 216px;
+    height: 288px;
+  }
+  .pic-floor .text-box .pic-title {
+    width: 130px;
+  }
+
+  .trend-item {
+    width: 216px;
+    height: 205px;
+  }
+  .trend-item .img-box{
+    height: 144px;
+}
+  .trend-item .img-box img {
+    margin-left: -55px ;
+  }
+  .commercial{
+      min-width: 960px;
+  }
+  .application .application-item{
+      margin: 0 40px;
+  }
+
+
+
+
+
+
+
+}
